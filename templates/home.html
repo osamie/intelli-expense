@@ -7,8 +7,9 @@
   <body>
    <h1> HELLO, TESTING TEMPLATING ENGINE</h1>
 
-   <form method=POST enctype=multipart/form-data action="/upload">
-      <input type=file name=data>
+   <form id="uploadForm" method=POST enctype=multipart/form-data action="/upload">
+      <input id="userFile" type=file name=data>
+      <input type="submit" value="Upload csv">
   </form>
   </body>
 </html>
