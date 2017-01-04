@@ -6,3 +6,6 @@ Create a way for the new subsidiary to import their data into a database.
 
 **SOLUTION:**
 A web interface that accepts file uploads, and then stores them in a relational database.
+
+
+**PROJECT STATUS:** INCOMPLETE. Contains only a few scaffolding snippets. 
