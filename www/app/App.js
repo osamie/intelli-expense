@@ -1,8 +1,6 @@
 define(['jquery'], function($){
   return {
     start: function(){
-
-      // var form = $(document).find('form#uploadForm');
       var inputEl = document.getElementById('userFile');
       var btn = document.getElementById('uploadBtn');
       var files;
